@@ -27,7 +27,7 @@ If you are looking for React.js version check [here](https://github.com/ioanmo22
 ### Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/ioanmo226/chatgpt-web-application
+git clone https://github.com/shashankmadhav/chatgpt-webapp
 ```
 2. Install the dependencies:
 ```sh
